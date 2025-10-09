@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [4008-restore-finishing-order](https://github.com/indreshgit10/leetcode-soln/tree/master/4008-restore-finishing-order) |
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
