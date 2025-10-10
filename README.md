@@ -56,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
