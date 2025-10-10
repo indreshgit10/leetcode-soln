@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [4008-restore-finishing-order](https://github.com/indreshgit10/leetcode-soln/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -67,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
