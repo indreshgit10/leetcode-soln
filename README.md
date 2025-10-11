@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/2454-largest-local-values-in-a-matrix) |
 | [4008-restore-finishing-order](https://github.com/indreshgit10/leetcode-soln/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Math
 |  |
 | ------- |
