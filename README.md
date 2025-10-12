@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
+| [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
+| [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Math
 |  |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
+## Backtracking
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
