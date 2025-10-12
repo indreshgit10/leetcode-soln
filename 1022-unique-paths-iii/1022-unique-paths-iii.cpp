@@ -2,7 +2,7 @@ class Solution {
 public:
     int ans = 0;
     int totalEmpty = 0;
-    int startX, startY;
+    int startx, starty;
 
     void dfs(vector<vector<int>>& grid, int x, int y, int remain) {
         if (x < 0 || y < 0 || x >= grid.size() || y >= grid[0].size() ||
@@ -32,12 +32,12 @@ public:
                 if (grid[i][j] != -1)
                     totalEmpty++;
                 if (grid[i][j] == 1) {
-                    startX = i;
-                    startY = j;
+                    startx = i;
+                    starty = j;
                 }
             }
         }
-        dfs(grid, startX, startY, totalEmpty - 1);
+        dfs(grid, startx, starty, totalEmpty - 1);
         return ans;
     }
 };
