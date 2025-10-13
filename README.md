@@ -63,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 ## Design
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
