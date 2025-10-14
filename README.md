@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 ## Design
@@ -118,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
