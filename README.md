@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/indreshgit10/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/indreshgit10/leetcode-soln/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/indreshgit10/leetcode-soln/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 ## Backtracking
 |  |
