@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/indreshgit10/leetcode-soln/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/indreshgit10/leetcode-soln/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
