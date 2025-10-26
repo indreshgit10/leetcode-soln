@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/indreshgit10/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/indreshgit10/leetcode-soln/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
