@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indreshgit10/leetcode-soln/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0112-path-sum) |
+| [0662-maximum-width-of-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
