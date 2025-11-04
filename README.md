@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/indreshgit10/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/indreshgit10/leetcode-soln/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/indreshgit10/leetcode-soln/tree/master/0257-binary-tree-paths) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/indreshgit10/leetcode-soln/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/indreshgit10/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
