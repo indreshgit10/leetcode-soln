@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
 | [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -212,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0572-subtree-of-another-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
