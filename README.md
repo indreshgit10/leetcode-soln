@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/indreshgit10/leetcode-soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/indreshgit10/leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/indreshgit10/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/indreshgit10/leetcode-soln/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
+| [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/indreshgit10/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/indreshgit10/leetcode-soln/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -221,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/indreshgit10/leetcode-soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
