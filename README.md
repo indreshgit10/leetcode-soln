@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/indreshgit10/leetcode-soln/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/0777-toeplitz-matrix) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/indreshgit10/leetcode-soln/tree/master/0076-minimum-window-substring) |
+| [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/indreshgit10/leetcode-soln/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/indreshgit10/leetcode-soln/tree/master/1034-subarrays-with-k-different-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
