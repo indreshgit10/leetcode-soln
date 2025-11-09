@@ -2,19 +2,22 @@ class Solution {
 public:
     int numberOfArithmeticSlices(vector<int>& nums) {
 
-        int ans=0;
+        int count = 0;
 
-       for(int i=0; i<nums.size();i++){
-        unordered_set<int> s;
-        for(int j=i+1; j<nums.size(); j++ ){
+        for (int i = 1; i < nums.size(); ) {
+            int diff = nums[i] - nums[i - 1];
+            int n = 2;
+            while (i < nums.size() - 1 && nums[i + 1] - nums[i] == diff) {
+                n++;
+                i++;
+            }
 
-            int a= nums[j]-nums[j-1];
-            s.insert(a);
+            if (n >= 3) {
+                count += (n - 2) * (n - 1) / 2;
+            }
 
-            if(j-i+1>2 && s.size()==1) ans++;
-            
+            i++;
         }
-       }
-       return ans;
+        return count;
     }
 };
