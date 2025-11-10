@@ -16,11 +16,9 @@ public:
 
             while((r-l+1- maxf) >k){
                  m[s[l]-'A']--;
-                 maxf=0;
+                 
 
-                 for(int i=0; i<25; i++){
-                    maxf= max(maxf, m[i]);
-                 }
+                 
                  l++;
             }
 
