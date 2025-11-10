@@ -7,22 +7,24 @@ public:
         for(auto &i: nums){
             s.insert(i);
         }
-
         int n= s.size();
+        int l=0, r=0, count=0;
 
-        s.clear();
+        unordered_map<int, int> m;
 
-        int count=0;
-       
-       for(int i=0; i<nums.size(); i++){
-        for(int j=i; j<nums.size(); j++){
-            s.insert(nums[j]);
-            if(s.size()==n){
-                count++;
+        while(r<nums.size()){
+            m[nums[r]]++;
+
+            while(m.size()==n){
+                count+= nums.size()-r;
+                 m[nums[l]]--;
+                 if (m[nums[l]] == 0) {
+                    m.erase(nums[l]);
+                }
+                l++;
             }
+            r++;
         }
-        s.clear();
-       }
        return count;   
     }
 };
