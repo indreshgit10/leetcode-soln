@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/indreshgit10/leetcode-soln/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/indreshgit10/leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/indreshgit10/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/indreshgit10/leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/indreshgit10/leetcode-soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/indreshgit10/leetcode-soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/indreshgit10/leetcode-soln/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 ## Backtracking
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/indreshgit10/leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 ## Rolling Hash
 |  |
