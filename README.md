@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/indreshgit10/leetcode-soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
 | [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Rolling Hash
 |  |
 | ------- |
