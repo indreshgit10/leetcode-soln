@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/indreshgit10/leetcode-soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
