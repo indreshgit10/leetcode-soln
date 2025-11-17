@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/indreshgit10/leetcode-soln/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
+| [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/indreshgit10/leetcode-soln/tree/master/0907-koko-eating-bananas) |
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
+| [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
 | [1022-unique-paths-iii](https://github.com/indreshgit10/leetcode-soln/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/indreshgit10/leetcode-soln/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/indreshgit10/leetcode-soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
