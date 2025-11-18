@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
 | [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/indreshgit10/leetcode-soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1138-grumpy-bookstore-owner](https://github.com/indreshgit10/leetcode-soln/tree/master/1138-grumpy-bookstore-owner) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/indreshgit10/leetcode-soln/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/indreshgit10/leetcode-soln/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Backtracking
 |  |
