@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/indreshgit10/leetcode-soln/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/indreshgit10/leetcode-soln/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/indreshgit10/leetcode-soln/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/indreshgit10/leetcode-soln/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/indreshgit10/leetcode-soln/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
