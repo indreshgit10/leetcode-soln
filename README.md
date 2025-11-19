@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/indreshgit10/leetcode-soln/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/indreshgit10/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/indreshgit10/leetcode-soln/tree/master/0496-next-greater-element-i) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [0966-binary-subarrays-with-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/indreshgit10/leetcode-soln/tree/master/1034-subarrays-with-k-different-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/indreshgit10/leetcode-soln/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/indreshgit10/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/indreshgit10/leetcode-soln/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/indreshgit10/leetcode-soln/tree/master/0496-next-greater-element-i) |
 | [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/indreshgit10/leetcode-soln/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/indreshgit10/leetcode-soln/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/indreshgit10/leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/0777-toeplitz-matrix) |
@@ -315,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/indreshgit10/leetcode-soln/tree/master/0496-next-greater-element-i) |
 | [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
