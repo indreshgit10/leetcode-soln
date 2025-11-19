@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/indreshgit10/leetcode-soln/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/indreshgit10/leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/indreshgit10/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 | [4008-restore-finishing-order](https://github.com/indreshgit10/leetcode-soln/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0187-repeated-dna-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
