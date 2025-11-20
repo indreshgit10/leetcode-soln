@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/indreshgit10/leetcode-soln/tree/master/0983-validate-stack-sequences) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/indreshgit10/leetcode-soln/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/indreshgit10/leetcode-soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 ## Recursion
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/indreshgit10/leetcode-soln/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/indreshgit10/leetcode-soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/indreshgit10/leetcode-soln/tree/master/1755-defuse-the-bomb) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/indreshgit10/leetcode-soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/indreshgit10/leetcode-soln/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/indreshgit10/leetcode-soln/tree/master/2195-time-needed-to-buy-tickets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/indreshgit10/leetcode-soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 ## Backtracking
 |  |
@@ -319,5 +322,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/indreshgit10/leetcode-soln/tree/master/0496-next-greater-element-i) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/indreshgit10/leetcode-soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
