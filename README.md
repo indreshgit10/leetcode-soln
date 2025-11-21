@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/indreshgit10/leetcode-soln/tree/master/0048-rotate-image) |
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/indreshgit10/leetcode-soln/tree/master/1370-count-number-of-nice-subarrays) |
+| [1448-maximum-69-number](https://github.com/indreshgit10/leetcode-soln/tree/master/1448-maximum-69-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/indreshgit10/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/indreshgit10/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/indreshgit10/leetcode-soln/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1448-maximum-69-number](https://github.com/indreshgit10/leetcode-soln/tree/master/1448-maximum-69-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/indreshgit10/leetcode-soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3738-make-array-non-decreasing](https://github.com/indreshgit10/leetcode-soln/tree/master/3738-make-array-non-decreasing) |
