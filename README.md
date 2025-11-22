@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/indreshgit10/leetcode-soln/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/indreshgit10/leetcode-soln/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/indreshgit10/leetcode-soln/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/indreshgit10/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/indreshgit10/leetcode-soln/tree/master/0948-bag-of-tokens) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/indreshgit10/leetcode-soln/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indreshgit10/leetcode-soln/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/indreshgit10/leetcode-soln/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Geometry
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/indreshgit10/leetcode-soln/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/1254-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/indreshgit10/leetcode-soln/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
