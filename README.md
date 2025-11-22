@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/indreshgit10/leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0749-shortest-completing-word](https://github.com/indreshgit10/leetcode-soln/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/indreshgit10/leetcode-soln/tree/master/0777-toeplitz-matrix) |
+| [0881-boats-to-save-people](https://github.com/indreshgit10/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/indreshgit10/leetcode-soln/tree/master/0907-koko-eating-bananas) |
 | [0928-surface-area-of-3d-shapes](https://github.com/indreshgit10/leetcode-soln/tree/master/0928-surface-area-of-3d-shapes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/indreshgit10/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indreshgit10/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/indreshgit10/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/indreshgit10/leetcode-soln/tree/master/0948-bag-of-tokens) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/indreshgit10/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/indreshgit10/leetcode-soln/tree/master/0649-dota2-senate) |
+| [0881-boats-to-save-people](https://github.com/indreshgit10/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/indreshgit10/leetcode-soln/tree/master/0890-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/indreshgit10/leetcode-soln/tree/master/0948-bag-of-tokens) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/indreshgit10/leetcode-soln/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/indreshgit10/leetcode-soln/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/indreshgit10/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/indreshgit10/leetcode-soln/tree/master/0948-bag-of-tokens) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indreshgit10/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/indreshgit10/leetcode-soln/tree/master/1530-check-if-a-string-can-break-another-string) |
